@@ -50,7 +50,7 @@ Este projeto está licenciado sob a ISC License.
 
 ## Autor
 
-Desenvolvido por [Seu Nome] como parte do portfólio de migração de área. Baseado no curso de Jamilton Damasceno na Udemy.
+Desenvolvido por João Vitor como parte do portfólio de migração de área. Baseado no curso de Jamilton Damasceno na Udemy.
 
 ---
 
