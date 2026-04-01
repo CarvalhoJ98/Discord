@@ -16,7 +16,7 @@ O projeto replica a página inicial do Discord, incluindo elementos visuais como
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/CarvalhoJ98/Discord.git
    ```
 
 2. Navegue até a pasta do projeto:
@@ -27,6 +27,10 @@ O projeto replica a página inicial do Discord, incluindo elementos visuais como
 3. Abra o arquivo `index.html` em seu navegador web.
 
 Não há dependências externas ou servidor necessário, pois é um projeto estático.
+
+## Screenshots
+
+![Screenshot do Projeto](screenshot/screenshot1.png)
 
 ## Estrutura do Projeto
 
